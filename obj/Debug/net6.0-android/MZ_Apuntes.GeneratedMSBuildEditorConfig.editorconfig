@@ -1,0 +1,52 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MZ_Apuntes
+build_property.ProjectDir = D:\NO ELIMINAR\Downloads\MZ\MZ_Apuntes\
+
+[D:/NO ELIMINAR/Downloads/MZ/MZ_Apuntes/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MZ_Apuntes.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/NO ELIMINAR/Downloads/MZ/MZ_Apuntes/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MZ_Apuntes.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/NO ELIMINAR/Downloads/MZ/MZ_Apuntes/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MZ_Apuntes.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/NO ELIMINAR/Downloads/MZ/MZ_Apuntes/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MZ_Apuntes.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/NO ELIMINAR/Downloads/MZ/MZ_Apuntes/Views/MZ_AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MZ_Apuntes.Views.MZ_AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MZ_AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MZ_AboutPage.xaml
+
+[D:/NO ELIMINAR/Downloads/MZ/MZ_Apuntes/Views/MZ_AllNotesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MZ_Apuntes.Views.MZ_AllNotesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MZ_AllNotesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MZ_AllNotesPage.xaml
+
+[D:/NO ELIMINAR/Downloads/MZ/MZ_Apuntes/Views/MZ_NotePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MZ_Apuntes.Views.MZ_NotePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MZ_NotePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MZ_NotePage.xaml
